@@ -40,3 +40,5 @@ exports.showStart = function() {
     const intro = "_____________________________|                           ||      $$ MONOPOLY $$       |   |                           || Sign up now               ||                           ||                           ||                           ||                           ||___________________________|"
     console.log(intro)
 }
+
+//Message / wait screen update on event
